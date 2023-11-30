@@ -1,2 +1,2 @@
-# moss_cw2
-The code contains the model of Moss Project 2
+# moss_energy_model
+The energy model of heat pump installations in Orkney 
